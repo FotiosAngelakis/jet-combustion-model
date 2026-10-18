@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=7
+cantera>=3.0  # optional, only for validation/cantera_check.py
