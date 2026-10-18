@@ -7,7 +7,7 @@
 
 An interactive tool for preliminary design of a gas-turbine combustor. Set the engine cycle and a turbine-entry-temperature (TET) limit, and the app works out the air–fuel ratio, how fast CO burns out, how much NO forms, and how large the combustor needs to be. Everything updates live in the browser.
 
-**▶ Live demo:** *add your Streamlit link here*
+**▶ Live demo:** https://jet-combustion-model.streamlit.app/
 
 
 ---
